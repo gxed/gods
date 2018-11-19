@@ -1,0 +1,16 @@
+{
+  "author": "magik6k",
+  "bugs": {
+    "url": "github.com/gxed/gods"
+  },
+  "gx": {
+    "dvcsimport": "github.com/emirpasic/gods"
+  },
+  "gxVersion": "0.12.1",
+  "language": "go",
+  "license": "",
+  "name": "gods",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "1.0.1"
+}
+
